@@ -2,6 +2,8 @@
 
 ### In our Pervasive Systems Research Group, we have been experimenting with OpenEarables v1.4 and 2.0 (Roeddiger, Germany) and Omnibuds (BellLabs, UK). Below you can find the various codes and/or publications within our Earable research:
 
+## 
+
 ### Sepanosian, T., & Durmaz Incel, O. (2024, October). Training Smarter with OpenEarable: A Boxing Gesture Recognition Dashboard Integration. In Companion of the 2024 on ACM International Joint Conference on Pervasive and Ubiquitous Computing (pp. 921-924).
 #### Code: https://github.com/ut-eemcs-ps/EarableBoxingHeadGestureRecognition
 #### Data: https://github.com/ut-eemcs-ps/EarableBoxingHeadGestureRecognition
