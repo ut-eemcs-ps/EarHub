@@ -27,22 +27,35 @@
 #### Data: https://github.com/Zenkai-core/Visual-distraction-in-Cyclists
 #### Publication: https://doi.org/10.1145/3714394.3757261
 
+## 
+
 ### Hierarchical Silent Command Recognition on Earables: A Multistage Learning Approach - Bambang Muharto, Egemen İşgüder, Özlem Durmaz Incel - CoMoRe AI, PerCom 26’
 #### Code: https://github.com/ut-eemcs-ps/SilentCommunicationOpenEarable
 #### Code2: https://github.com/ut-eemcs-ps/SilentCommunicationOpenEarable
 
+## 
+
 ### A Lightweight Ensemble for Sensor Fault Injection, Detection and Fusion in Earables - Damian Gonzalez Gonzalez, Egemen İşgüder, Özlem Durmaz Incel
 
+## 
+
 ### Earables at Work: Multimodal Sensing for Stress, Safety and Silent Collaboration - Egemen İşgüder, Rob Bemthuis, Özlem Durmaz Incel
+
+## 
 
 ### ”Look Ma, No Hands!”: Distraction Analysis of Cyclists through Earable Measurements, Natalia Bueno Donadeu, Nand Homan, Madeleine Leertouwer, Jesper Lok, Michiel Simons, Anushka Sood
 #### Code: https://github.com/ut-eemcs-ps/Pervasive-computing-project
 #### Data: https://github.com/ut-eemcs-ps/Pervasive-computing-project
 
+## 
+
 ### Robust Head Gesture Music Control, Rik Wildschut, Daisy Baars, Liz van Ginderen, Quinten Boeve, Katja Heßmann, Lars van der Valk
+
+## 
 
 ### Real-Time Multimodal Running Coach Using OpenEarable and ESP32, Fenil Dedhia, Nusrat Jahan Anannya, Jolynn Choo, Varshitha Priya Kasa, Kundai Mutuwira, Rashmika Satish, Akshaya Suresh
 #### Code: https://github.com/Egosis/Pacing-Fitness-Coach
 
+## 
 
 
