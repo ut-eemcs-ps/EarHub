@@ -24,7 +24,7 @@
 ## 
 
 ### Sidhharth Balakrishnan, Akhil Pallamreddy, Yanqiu Huang, and Ozlem Durmaz Incel. 2026. Head Movement-Based Visual Distraction Detection in Cyclists with Earables. In Companion of the 2025 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp Companion '25). Association for Computing Machinery, New York, NY, USA, 847–853.
-#### Data: https://github.com/Zenkai-core/Visual-distraction-in-Cyclists
+#### Data: https://github.com/ut-eemcs-ps/Visual-distraction-in-Cyclists
 #### Publication: https://doi.org/10.1145/3714394.3757261
 
 ## 
