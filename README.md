@@ -54,7 +54,7 @@
 ## 
 
 ### Real-Time Multimodal Running Coach Using OpenEarable and ESP32, Fenil Dedhia, Nusrat Jahan Anannya, Jolynn Choo, Varshitha Priya Kasa, Kundai Mutuwira, Rashmika Satish, Akshaya Suresh
-#### Code: https://github.com/Egosis/Pacing-Fitness-Coach
+#### Code: [https://github.com/Egosis/Pacing-Fitness-Coach](https://github.com/ut-eemcs-ps/Pacing-FitnessCoach)
 
 ## 
 
