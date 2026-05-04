@@ -50,11 +50,11 @@
 ## 
 
 ### Robust Head Gesture Music Control, Rik Wildschut, Daisy Baars, Liz van Ginderen, Quinten Boeve, Katja Heßmann, Lars van der Valk
+#### Code: https://github.com/ut-eemcs-ps/EarableMusicControlApp
 
-## 
 
 ### Real-Time Multimodal Running Coach Using OpenEarable and ESP32, Fenil Dedhia, Nusrat Jahan Anannya, Jolynn Choo, Varshitha Priya Kasa, Kundai Mutuwira, Rashmika Satish, Akshaya Suresh
-#### Code: [https://github.com/Egosis/Pacing-Fitness-Coach](https://github.com/ut-eemcs-ps/Pacing-FitnessCoach)
+#### Code: https://github.com/ut-eemcs-ps/ergonomic_pose_detector
 
 ## 
 
